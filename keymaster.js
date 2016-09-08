@@ -24,6 +24,8 @@
       del: 46, 'delete': 46,
       home: 36, end: 35,
       pageup: 33, pagedown: 34,
+      numpad0: 96, numpad1: 97, numpad2: 98, numpad3: 99, numpad4: 100,
+      numpad5: 101, numpad6: 102, numpad7: 103, numpad8: 104, numpad9: 105,
       ',': 188, '.': 190, '/': 191,
       '`': 192, '-': 189, '=': 187,
       ';': 186, '\'': 222,
